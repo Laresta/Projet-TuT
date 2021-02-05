@@ -1,0 +1,6 @@
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\x86\Debug\ProjetTuT.csprojAssemblyReference.cache
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\x86\Debug\MainWindow.g.cs
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\x86\Debug\App.g.cs
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\x86\Debug\ProjetTuT_Content.g.cs
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\x86\Debug\ProjetTuT_MarkupCompile.cache
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\x86\Debug\ProjetTuT_MarkupCompile.lref

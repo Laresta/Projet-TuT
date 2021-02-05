@@ -1,0 +1,17 @@
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\Debug\ProjetTuT.csprojAssemblyReference.cache
+D:\IA-Projet\ProjetTuT\ProjetTuT\bin\Debug\ProjetTuT.exe.config
+D:\IA-Projet\ProjetTuT\ProjetTuT\bin\Debug\ProjetTuT.exe
+D:\IA-Projet\ProjetTuT\ProjetTuT\bin\Debug\ProjetTuT.pdb
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\Debug\view\MainWindow.g.cs
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\Debug\view\App.g.cs
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\Debug\ProjetTuT_MarkupCompile.cache
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\Debug\ProjetTuT_MarkupCompile.lref
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\Debug\view\MainWindow.baml
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\Debug\ProjetTuT.g.resources
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\Debug\ProjetTuT.Properties.Resources.resources
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\Debug\ProjetTuT.csproj.GenerateResource.cache
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\Debug\ProjetTuT.csproj.CoreCompileInputs.cache
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\Debug\ProjetTuT.exe
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\Debug\ProjetTuT.pdb
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\Debug\MainWindow.g.cs
+D:\IA-Projet\ProjetTuT\ProjetTuT\obj\Debug\App.g.cs
