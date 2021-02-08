@@ -22,7 +22,7 @@ namespace ProjetTuT
     {
         public MainWindow()
         {
-          
+            InitializeComponent();
         }
     }
 }
