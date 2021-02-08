@@ -193,3 +193,5 @@ D:\projet\Projet-TuT\ProjetTuT\obj\x64\Debug\ProjetTuT.csproj.CoreCompileInputs.
 D:\projet\Projet-TuT\ProjetTuT\obj\x64\Debug\ProjetTuT.csproj.CopyComplete
 D:\projet\Projet-TuT\ProjetTuT\obj\x64\Debug\ProjetTuT.exe
 D:\projet\Projet-TuT\ProjetTuT\obj\x64\Debug\ProjetTuT.pdb
+D:\projet\Projet-TuT\ProjetTuT\obj\x64\Debug\App.g.cs
+D:\projet\Projet-TuT\ProjetTuT\obj\x64\Debug\App.baml
