@@ -16,7 +16,7 @@ namespace ProjetTuT
         static void Main(string[] args)
         {
            
-           var assetsRelativePath = @"model/assets/";
+           var assetsRelativePath = @"../../../model/assets/";
            string assetsPath = GetAbsolutePath(assetsRelativePath);
            var modelFilePath = Path.Combine(assetsPath, "Model", "TinyYolo2_model.onnx");
            var imagesFolder = Path.Combine(assetsPath, "images");
