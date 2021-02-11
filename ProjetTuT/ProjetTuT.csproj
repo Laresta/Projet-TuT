@@ -338,15 +338,21 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <None Include="model\assets\images\wikimedia.md" />
-    <None Include="model\assets\Model\TinyYolo2_model.onnx" />
+    <None Include="model\assets\images\wikimedia.md">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="model\assets\Model\TinyYolo2_model.onnx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="model\assets\Model\tiny_yolov2\test_data_set_0\input_0.pb" />
     <None Include="model\assets\Model\tiny_yolov2\test_data_set_0\output_0.pb" />
     <None Include="model\assets\Model\tiny_yolov2\test_data_set_1\input_0.pb" />
     <None Include="model\assets\Model\tiny_yolov2\test_data_set_1\output_0.pb" />
     <None Include="model\assets\Model\tiny_yolov2\test_data_set_2\input_0.pb" />
     <None Include="model\assets\Model\tiny_yolov2\test_data_set_2\output_0.pb" />
-    <None Include="model\assets\Model\tiny_yolov2\TinyYolo2_model.onnx" />
+    <None Include="model\assets\Model\tiny_yolov2\TinyYolo2_model.onnx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -357,14 +363,30 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="model\assets\images\image1.jpg" />
-    <Resource Include="model\assets\images\image2.jpg" />
-    <Resource Include="model\assets\images\image3.jpg" />
-    <Resource Include="model\assets\images\image4.jpg" />
-    <Resource Include="model\assets\images\output\image1.jpg" />
-    <Resource Include="model\assets\images\output\image2.jpg" />
-    <Resource Include="model\assets\images\output\image3.jpg" />
-    <Resource Include="model\assets\images\output\image4.jpg" />
+    <Resource Include="model\assets\images\image1.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="model\assets\images\image2.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="model\assets\images\image3.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="model\assets\images\image4.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="model\assets\images\output\image1.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="model\assets\images\output\image2.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="model\assets\images\output\image3.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="model\assets\images\output\image4.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

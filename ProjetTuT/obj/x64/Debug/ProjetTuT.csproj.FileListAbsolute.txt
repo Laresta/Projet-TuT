@@ -195,3 +195,6 @@ D:\projet\Projet-TuT\ProjetTuT\obj\x64\Debug\ProjetTuT.exe
 D:\projet\Projet-TuT\ProjetTuT\obj\x64\Debug\ProjetTuT.pdb
 D:\projet\Projet-TuT\ProjetTuT\obj\x64\Debug\App.g.cs
 D:\projet\Projet-TuT\ProjetTuT\obj\x64\Debug\App.baml
+D:\projet\Projet-TuT\ProjetTuT\bin\x64\Debug\model\assets\images\wikimedia.md
+D:\projet\Projet-TuT\ProjetTuT\bin\x64\Debug\model\assets\Model\TinyYolo2_model.onnx
+D:\projet\Projet-TuT\ProjetTuT\bin\x64\Debug\model\assets\Model\tiny_yolov2\TinyYolo2_model.onnx
