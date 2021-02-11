@@ -5,20 +5,18 @@ using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Linq;
 using Microsoft.ML;
-using TEST2;
-using TEST2.YoloParser;
-using TEST2.DataStructures;
+using ProjetTuT.YoloParser;
+using ProjetTuT.DataStructures;
 
 
-namespace TEST2
+namespace ProjetTuT
 {
     class Program
     {
-       
         static void Main(string[] args)
         {
-            /*
-           var assetsRelativePath = @"assets";
+           
+           var assetsRelativePath = @"../assets";
            string assetsPath = GetAbsolutePath(assetsRelativePath);
            var modelFilePath = Path.Combine(assetsPath, "Model", "TinyYolo2_model.onnx");
            var imagesFolder = Path.Combine(assetsPath, "images");
@@ -56,9 +54,7 @@ namespace TEST2
 
            Console.WriteLine("========= End of Process..Hit any Key ========");
            Console.ReadLine();
-
-
-       */
+       
         }
 
 

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Drawing;
 
-namespace TEST2.YoloParser
+namespace ProjetTuT.YoloParser
 {
     public class BoundingBoxDimensions : DimensionsBase { }
     public class YoloBoundingBox

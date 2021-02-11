@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 
-namespace TEST2.YoloParser
+namespace ProjetTuT.YoloParser
 {
     class CellDimensions : DimensionsBase { }
     class YoloOutputParser

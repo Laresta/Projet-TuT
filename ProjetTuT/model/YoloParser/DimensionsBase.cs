@@ -1,6 +1,6 @@
 ﻿
 
-namespace TEST2.YoloParser
+namespace ProjetTuT.YoloParser
 {
     public class DimensionsBase
     {

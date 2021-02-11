@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.ML;
 using Microsoft.ML.Data;
-using TEST2.DataStructures;
-using TEST2.YoloParser;
+using ProjetTuT.DataStructures;
+using ProjetTuT.YoloParser;
 
-namespace TEST2
+namespace ProjetTuT
 {
     class OnnxModelScorer
     {

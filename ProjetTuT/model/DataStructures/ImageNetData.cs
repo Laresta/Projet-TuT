@@ -3,7 +3,7 @@ using System.IO;
 using System.Linq;
 using Microsoft.ML.Data;
 
-namespace TEST2.DataStructures
+namespace ProjetTuT.DataStructures
 {
     public class ImageNetData
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.ML.Data;
 
-namespace TEST2.DataStructures
+namespace ProjetTuT.DataStructures
 {
     public class ImageNetPrediction
     {
