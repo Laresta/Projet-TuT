@@ -8,14 +8,8 @@
         Title="Fenêtre Principale" Height="450" Width="900">
     <Grid>
         <Grid.Background>
-<<<<<<< HEAD
             <ImageBrush ImageSource="fond2.jpg"/>
         </Grid.Background>
-=======
-            <ImageBrush ImageSource="..\ProjetTuT\fond.jpg"/>
-        </Grid.Background>
-
->>>>>>> 525f88d9b35c2f5d81e51ed07e889400074bb55f
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="0.45*"/>
             <ColumnDefinition Width="0.05*"/>

@@ -396,17 +396,11 @@
     </Resource>
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="fond.jpg" />
-  </ItemGroup>
-<<<<<<< HEAD
-  <ItemGroup>
     <Resource Include="fond2.jpg" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="bg_fenetre.png" />
   </ItemGroup>
-=======
->>>>>>> 525f88d9b35c2f5d81e51ed07e889400074bb55f
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

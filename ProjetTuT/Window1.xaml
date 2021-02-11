@@ -23,7 +23,7 @@
             <ComboBoxItem Content="Option 1"/>
             <ComboBoxItem Content="Option 2"/>
         </ComboBox>
-        <Image Grid.Row="1" Grid.ColumnSpan="2" Margin="0,0.4,-0.4,0" Source="model\assets\images\output\image1.jpg">
+        <Image Grid.Row="1" Grid.ColumnSpan="2" Margin="0,0.4,-0.4,0" Source="model\assets\images\output\image1.jpg" Width="350" Height="250">
            
         </Image>
     </Grid>
