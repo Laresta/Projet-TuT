@@ -395,6 +395,15 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="fond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="fond2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="bg_fenetre.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

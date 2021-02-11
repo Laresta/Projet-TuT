@@ -7,7 +7,9 @@
         mc:Ignorable="d"
         Title="Fenêtre Principale" Height="450" Width="900">
     <Grid>
-
+        <Grid.Background>
+            <ImageBrush ImageSource="fond2.jpg"/>
+        </Grid.Background>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="0.45*"/>
             <ColumnDefinition Width="0.05*"/>
