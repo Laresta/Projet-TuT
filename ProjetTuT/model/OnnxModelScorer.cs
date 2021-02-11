@@ -66,7 +66,6 @@ namespace ProjetTuT
         public IEnumerable<float[]> Score(IDataView data)
         {
             var model = LoadModel(modelLocation);
-
             return PredictDataUsingModel(data, model);
         }
     }
